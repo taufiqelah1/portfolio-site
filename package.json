@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "A modern web developer portfolio site",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 3000 -o",
+    "dev": "http-server -p 3000 -o -c-1"
+  },
+  "keywords": [
+    "portfolio",
+    "web-developer",
+    "website"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
+
